@@ -1,0 +1,1 @@
+La aplicación utilizó como framework CodeIgniter por lo que utilizaremos la misma estructura 
